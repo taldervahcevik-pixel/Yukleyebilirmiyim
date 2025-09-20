@@ -1,2 +1,2 @@
-Bu sadece eglence amaclı yapılmıstır
-this is only made for fun
+TR:Bu sadece eglence amaclı yapılmıstır
+EN:This is only made for fun
